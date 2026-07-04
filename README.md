@@ -1,11 +1,10 @@
 # ML.ai Hackathon 2026 – Video Game Revenue Prediction
 
-This repository contains my solution for the **ML.ai Hackathon 2026**, organized as the final hackathon of the **Machine Learning.AI** course conducted by **IITG.ai Club**.
+This repository contains my solution for the **ML.ai Hackathon 2026**, organized as the final hackathon of the **Machine Learning.ai** course conducted by **IITG.ai Club**.
 
 The objective of the competition was to predict the **estimated revenue (in million USD)** of unseen video games using metadata such as platform, publisher, critic ratings, release information, and other engineered features.
 
-Competition:
-https://www.kaggle.com/competitions/ml-ai-hackathon-2026/overview
+[Kaggle Competition Page](https://www.kaggle.com/competitions/ml-ai-hackathon-2026/overview)
 
 ---
 
